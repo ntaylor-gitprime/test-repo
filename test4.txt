@@ -2,3 +2,4 @@ another test file
 test test test
 test tests test
 blah blah
+another line
